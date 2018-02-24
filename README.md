@@ -1,4 +1,4 @@
-## Personal CDN
+## jjyepez - Personal CDN
 
 https://jjyepez.com/cdn is a public CDN for useful resources
 
@@ -9,4 +9,5 @@ https://jjyepez.com/cdn is a public CDN for useful resources
 ## License
 
 MIT
+
 https://opensource.org/licenses/MIT
